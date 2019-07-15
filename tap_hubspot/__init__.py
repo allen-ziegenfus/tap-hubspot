@@ -90,6 +90,7 @@ ENDPOINTS = {
     "email_events":         "/email/public/v1/events",
     "contact_lists":        "/contacts/v1/lists",
     "forms":                "/forms/v2/forms",
+    "form_submissions":     "/form-integrations/v1/submissions/forms/{form_id}",
     "workflows":            "/automation/v3/workflows",
     "owners":               "/owners/v2/owners",
 }
